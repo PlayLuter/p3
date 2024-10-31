@@ -1,10 +1,7 @@
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.DataPrivacy.ref.dll_B44BF53B55CD31DE.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.EditorCoroutines.Editor.ref.dll_34ED10A34098B2DB.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Performance.Profile-Analyzer.Editor.ref.dll_65A192712782EB2B.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Rider.Editor.ref.dll_9B5591808ABA37AF.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Services.Analytics.Editor.ref.dll_07BD01682DBD125D.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Services.Analytics.ref.dll_5F295EB8E7853A94.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Analytics.ref.dll_EDA1682A714EA6BF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Environments.ref.dll_7E0AC2CDE81D9C6D.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_131AC9C5EC6E6517.mvfrm
@@ -35,9 +32,6 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.SecurityStub.ref.dll_EF9A4EF
 Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Stores.ref.dll_D1DFD8417D6A87AC.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.ref.dll_5673313DB44037AA.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_08FEAA520A2EFD60.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_2521796BDD14ED74.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.CoreModule.dll_85D2153F918A1EDF.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.DeviceSimulatorModule.dll_A7619EDB0BAADE12.mvfrm
